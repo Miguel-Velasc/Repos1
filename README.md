@@ -6,7 +6,7 @@ Estamos aprendiendo a trabjar con GIT y para eso hemos creado este repositorio
 * Puedo trabjar en equipos con mis compañeros
 + Aprendo de otros desarrolladores consultando sus repositorios
 ### Flujo de trabajo de GIT
-Para añadirs un fichero a nuestro respositorio remoto de GitHub `#0969DA tenemos que seguir los siguientes pasos:
+Para añadirs un fichero a nuestro respositorio remoto de GitHub `#0969DA` tenemos que seguir los siguientes pasos:
 
  git add fichero
  git commit -m "Comentario sobre el comit "
